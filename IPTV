@@ -24,8 +24,8 @@ https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/INFANTIL.m3u
 
 #EXTINF:-1 tvg-logo="",c5
 
-#EXTINF:-1 tvg-logo="pruebas",c7
-http://hostitaly.tv:88/get.php?username=6320845901&password=6320845901&type=m3u_plus
+#EXTINF:-1 tvg-logo="pruebas",c6
+http://hostitaly.tv:88/get.php?username=Teze24Samije&password=UEZ0RDQOXNF7DKL&type=m3u_plus&output=m3u8
 
 
 
