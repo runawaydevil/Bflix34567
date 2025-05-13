@@ -24,8 +24,8 @@ https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/action-mo
 
 #EXTINF:-1 tvg-logo="",c5
 
-#EXTINF:-1 tvg-logo="pruebas",00
-https://raw.githubusercontent.com/michelotero25/oteroiptv.live/refs/heads/master/Peliculas%202022.m3u
+#EXTINF:-1 tvg-logo="pruebas",100
+https://raw.githubusercontent.com/kyleabrahams/tv/866f39ee53d5aed7b46ab47e794a3c0d5d852d02/scripts/www/offline.m3u
 
 
 
