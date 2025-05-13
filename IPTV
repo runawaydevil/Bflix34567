@@ -24,8 +24,8 @@ https://aymrgknetzpucldhpkwm.supabase.co/storage/v1/object/public/tmdb/action-mo
 
 #EXTINF:-1 tvg-logo="",c5
 
-#EXTINF:-1 tvg-logo="pruebas",200
-https://raw.githubusercontent.com/appjava/signal/4508820e8974e09e4f772d92ffb479e8c110e420/meiptv/signal2.m3u
+#EXTINF:-1 tvg-logo="pruebas",400
+https://raw.githubusercontent.com/VegettoSan/MovieStreamList/main/Castellano/Anime.movstm
 
 
 
