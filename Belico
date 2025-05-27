@@ -1,13 +1,20 @@
 #EXTM3U
 
  
-
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vQQ0cvmAt5HU2Y3GKESkgDKCYva.jpg",100 dias con la Tata (2021)
+https://archive.org/download/100-dias-con-la-tata-2021-1080-micro-hd-es-he-aac-documental-6-0-mbpstmdb-901851tt-15417248-esdl/100%20d%C3%ADas%20con%20la%20Tata%20%282021%29%20%5B1080%20Micro-HD%5D%5BES%20HE-AAC%5D%5BDocumental%5D%5B6%2C0%20Mbps%5D%5Btmdb-901851%5D%5Btt15417248%5D%5BESDL%5D.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/Ye8VzQ9XYcDWEJhqoDkUOWRzu2.jpg",100 Days of Loneliness (2018)
+https://archive.org/download/100-dias-de-soledad-2018-1080-micro-hd-es-documental-6-8-mbpstmdb-534110tt-8156742-esdl/100%20d%C3%ADas%20de%20soledad%20%282018%29%20%5B1080%20Micro-HD%5D%5BES%5D%5BDocumental%5D%5B6%2C8%20Mbps%5D%5Btmdb-534110%5D%5Btt8156742%5D%5BESDL%5D.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v0LyRKSoCVbFpJy2hUQKtxnhu3y.jpg",11M: Terror in Madrid (2022)
+https://archive.org/download/11-m-terror-in-madrid-2022-1080-micro-hd-dual-documental-7-5-mbpstmdb-940332tt-6275154-esdl/11M%20-%20Terror%20in%20Madrid%20%282022%29%20%5B1080%20Micro-HD%5D%5BDUAL%5D%5BDocumental%5D%5B7%2C5%20Mbps%5D%5Btmdb-940332%5D%5Btt6275154%5D%5BESDL%5D.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o2lNMsYbr7nEIAdrn6JI0es5J8B.jpg",Todos Los Gobiernos Mienten
+https://archive.org/download/todos-los-gobiernos-mienten-2016-1080-micro-hd-npi-documental-5-7-mbpstmdb-410205tt-5937962-esdl/Todos%20los%20gobiernos%20mienten%20%282016%29%20%5B1080%20Micro-HD%5D%5BNPI%5D%5BDocumental%5D%5B5%2C7%20Mbps%5D%5Btmdb-410205%5D%5Btt5937962%5D%5BESDL%5D.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tYbSGAVbyACEExptLu63CxCGm4O.jpg",The Alpinist (2021)
+https://archive.org/download/el-alpinista-2021-1080-bd-rip-dual-eac-3-5.1-documental-9-8-mbpstmdb-682587tt-11790780-esdl/El%20alpinista%20%282021%29%20%5B1080%20BD-Rip%5D%5BDUAL%20EAC3%205.1%5D%5BDocumental%5D%5B9%2C8%20Mbps%5D%5Btmdb-682587%5D%5Btt11790780%5D%5BESDL%5D.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/he85BGyoCi42KWtwkC2sXlqdkWQ.jpg",Amanda Knox (2016)
+https://archive.org/download/amanda-knox-2016-720-dual-documental-4-3-mbpstmdb-411009tt-5952332-esdl/Amanda%20Knox%20%282016%29%20%5B720%5D%5BDUAL%5D%5BDocumental%5D%5B4%2C3%20Mbps%5D%5Btmdb-411009%5D%5Btt5952332%5D%5BESDL%5D.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/b1rVIl8DMtcJh2adu2SER4x3D3v.jpg",Andrés Iniesta: El héroe inesperado(2020)
 https://archive.org/download/andres-iniesta-el-heroe-inesperado-2020-1080-bd-rip-es-documental-8-5-mbpstmdb-6/Andr%C3%A9s%20Iniesta%20-%20el%20h%C3%A9roe%20inesperado%20%282020%29%20%5B1080%20BD-Rip%5D%5BES%5D%5BDocumental%5D%5B8%2C5%20Mbps%5D%5Btmdb-678314%5D%5Btt11786320%5D%5BESDL%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qdr6Jx39KErvSeQFVREjxeEK4lk.jpg",Ronaldo (2015)
