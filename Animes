@@ -55,9 +55,10 @@ ____super campeones_____
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zHgc9nTXiP77qoy14BO7WUFTwkp.jpg"group-title="superCampeones",superCampeones
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/IbNbWaz27Fco2CM8vy2gHlUPbX.jpg"group-title="superCampeones",PELICULAS
 https://raw.githubusercontent.com/tokio14-dot/super/refs/heads/main/pelis
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ylTQ8kWL2Ln5aS4W7r8ajFB5kcp.jpg"group-title="superCampeones",los S.Campeones 1983-1986
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ylTQ8kWL2Ln5aS4W7r8ajFB5kcp.jpg"group-title="superCampeones",los S.Campeones (1983)
 https://raw.githubusercontent.com/tokio14-dot/super/refs/heads/main/supercampeones1983.m3u
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cVxMiyuMzb5C3E0shdrRRJLoqf3.jpg"group-title="superCampeones",Captain Tsubasa J (1994)
+https://raw.githubusercontent.com/tokio14-dot/super/refs/heads/main/s.campeones1994.m3u
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zHgc9nTXiP77qoy14BO7WUFTwkp.jpg" group-title=“SuperCampeones”,Supercampeones Camino al 2002 (2001)
 https://raw.githubusercontent.com/tokio14-dot/super/refs/heads/main/supercampeones2002.m3u
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zHgc9nTXiP77qoy14BO7WUFTwkp.jpg" group-title=“SuperCampeones”,SuperCampeones 
