@@ -20,8 +20,8 @@ https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/INFANTIL.m3u
 
 #EXTINF:-1 tvg-logo="pruebas",888
 https://raw.githubusercontent.com/rb1223/masterapp/refs/heads/main/tv09mtv3.m3u
-#EXTINF:-1 tvg-logo="",c4
-
+#EXTINF:-1 tvg-logo="",peli2025
+https://raw.githubusercontent.com/rb1223/masterapp/refs/heads/main/tv09mpls2025.m3u
 #EXTINF:-1 tvg-logo="prueba",mati
 https://raw.githubusercontent.com/Tomas2007000/Nexus-Channel/refs/heads/main/Nexus-Channel/Peliculas/Peliculas.m3u
 #EXTINF:-1 tvg-logo="pruebas",canals
