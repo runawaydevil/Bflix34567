@@ -24,8 +24,8 @@ https://raw.githubusercontent.com/rb1223/masterapp/refs/heads/main/tv09mtv3.m3u
 https://raw.githubusercontent.com/rb1223/masterapp/refs/heads/main/tv09mpls2025.m3u
 #EXTINF:-1 tvg-logo="prueba",mati
 https://raw.githubusercontent.com/Tomas2007000/Nexus-Channel/refs/heads/main/Nexus-Channel/Peliculas/Peliculas.m3u
-#EXTINF:-1 tvg-logo="pruebas",canals
-https://raw.githubusercontent.com/ale24cba/iotsystem/refs/heads/main/SSIPTVlista.m3u8
+#EXTINF:-1 tvg-logo="pruebas",tt
+https://peertube2.cpy.re/w/1zywKcr1ChzL7R9rG6yCnq
 
 
 
