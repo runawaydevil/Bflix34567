@@ -1,6 +1,9 @@
 #EXTM3U
 
  ---------PARAMOUNT--------
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5qqclTiETGJtYoqOfFl9mXHKWX4.jpg"group-title="Paramount+",South Park (1997)
+https://raw.githubusercontent.com/tokio14-dot/south/refs/heads/main/south%20park
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sb2bd5YoaB9v9sFQBVuA20CKNef.jpg" group-title="Paramount+",Operativo: Lioness
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/refs/heads/main/Liones
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/LOS SIMULADORESMEXICO.jpg" group-title="Paramount+",LOS SIMULADORESMEXICO
