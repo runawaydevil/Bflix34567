@@ -1,5 +1,11 @@
 #EXTM3U
-----online-----
+
+
+
+
+______digimon____
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mUhLvUY0ndhxWr1xmDp6bZgddUZ.jpg"group-title="DIGIMON",Digimon: Digital Monsters (1999)
+https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/digimon
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/brd9Bp1MlH8oK2nzR6VV9imY46k.jpg"group-title="DBZ",Dragon Ball Daima (2024)
 https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/daim
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mh21p6mA8IwqJnRKyaW8SvVeoJL.jpg"group-title="ONE PIECE",ONE PIECE: Gyojin Tou-hen (2024)
