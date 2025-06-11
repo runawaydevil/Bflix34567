@@ -1,5 +1,17 @@
 #EXTM3U
 
+
+
+
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lepv5Vhjaa51WEtk6D7vzkufiGJ.jpg",Las brujas de Salem
+https://archive.org/download/las-brujas-de-salem/Las%20brujas%20de%20Salem.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8D33I0mGprRL01fcthHSDmDGG0w.jpg",SANZ: Lo que fui es lo que soy (2018)
 https://archive.org/download/alejandro-sanz-sanz-lo-que-fui-es-lo-que-soy/Alejandro%20Sanz%20-%20Sanz%20Lo%20que%20fui%20es%20lo%20que%20soy.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rS1QWmamAy4cOMzHprMf0dvIJNZ.jpg",Cinco de Mayo:la batalla (2013)
