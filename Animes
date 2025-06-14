@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo=""group-title="SLAM DUNK",SLAM DUNK
+https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/slamduk
+
+
+
 ______LOS CABALLEROS DEL ZODIACO____
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kgRLZ95mibXMb6UjPhly0W92IUs.jpg"group-title="LOS CABALLEROS DEL ZODIACO",LOS CABALLEROS DEL ZODIACO(1986)
 https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/caballeros.txt
