@@ -10,8 +10,11 @@ https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/he
 https://raw.githubusercontent.com/HECTHINHOXD/Series/main/README.md
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eYrfhsICvQNMMs0TbxpKCFQtZXJ.jpg",ciudad de dios (2024)
 https://github.com/tokio14-dot/ciudad-dios2/releases/download/A.1.0.0/ciudad.m3u
-#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/5Yiep9EwcQgLolg013ETBVqHxuD.jpg"group-title="HBO Max",RICK Y MORTY
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/5Yiep9EwcQgLolg013ETBVqHxuD.jpg"group-title="RICK Y MORTY",RICK Y MORTY
 https://bit.ly/3y81KkU
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t8afaHdK5mlc7TUkYn4JqL8zBww.jpg"group-title="RICK Y MORTY",Rick y Morty: El Anime (2024)
+https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/rick%20y%20morty
+
 
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-pinguino.jpg" group-title="HBO Max",El pinguino (2024) latino
 https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/El%20pinguino
