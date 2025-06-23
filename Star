@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t3qZAygWwd7sX6G9ae2a4R2Wbrh.jpg"group-title="LOS SIMPSON",Los Simpson (1989) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t3qZAygWwd7sX6G9ae2a4R2Wbrh.jpg"group-title="Star+",Los Simpson (1989) 
 https://raw.githubusercontent.com/tokio14-dot/simp/refs/heads/main/simp
 #EXTINF:-1 tvg-logo="https://www.pelisplus.lat/wp-content/uploads/2021/12/iF8ai2QLNiHV4anwY1TuSGZXqfN-200x300.jpg" group-title="Star+",Chucky 
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Chucky
