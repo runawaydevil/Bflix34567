@@ -1,6 +1,14 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7BkDJ4DfjkEG6NRJPeyw9w2iRFx.jpg",rosario (2025)
+https://archive.org/download/04_20250615_202506/atn/06.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7EqXQpRpDLJA09ufah6Vsr487WW.jpg",La mujer de las sombras (2025)
 https://archive.org/download/01_20250624_20250624_1917/pascal/09.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/m5jtX2J0VswgslOyx04l4edo3nJ.jpg",Peter Pan's Neverland Nightmare (2025)
