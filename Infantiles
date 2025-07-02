@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fR49hZdFJ6ZtRS23JW79VYmZgI7.jpg",Las Leyendas: El Origen (2021)
+https://archive.org/download/las-leyendas-el-origen-2022/Las%20Leyendas_El%20Origen%20%282022%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xiiO479azBVzsCRkwbQvBXgmYA.jpg",La liga de los 5 (2020)
 https://archive.org/download/la-liga-de-los-5.ia/La%20Liga%20De%20Los%205.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xSd2zSbIIuyz6MYZmCXzeVvlxsz.jpg",El día que la Tierra explotó: una película de Looney Tunes (2024)
