@@ -5,7 +5,7 @@
 
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg",Modern Family (2009)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k5Qg5rgPoKdh3yTJJrLtyoyYGwC.jpg"group-title="Modern Family",Modern Family (2009)
 https://raw.githubusercontent.com/tokio14-dot/modenfamily/refs/heads/main/enlaces
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bd07nR57DHMhNl6CXaGcnojyLsI.jpg",Gravity Falls (2012)
 https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/Gravity%20Falls
