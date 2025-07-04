@@ -1,5 +1,11 @@
 #EXTM3U
 
+
+
+
+-------Black Clover-----
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uJa6l1WdQDBuIPgfamhPXyqgbeP.jpg"group-title="Black Clover",Black Clover (2017)
+https://raw.githubusercontent.com/tokio14-dot/black-clover/refs/heads/main/01
 ------Saber Marionette
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mhGgJVo31CgWZ3XEXFcYr8d029P.jpg"group-title="Saber Marionette",Saber Marionette
 https://raw.githubusercontent.com/tokio14-dot/Saber-Marionette-/refs/heads/main/enlaes
