@@ -152,8 +152,6 @@ https://raw.githubusercontent.com/tokio14-dot/super/refs/heads/main/s.camprones2
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5TXqMukMgUColihrN5GGWNU3Y3Y.jpg"group-title="superCampeones",Captain Tsubasa: Junior Youth Arc
 https://raw.githubusercontent.com/tokio14-dot/super/refs/heads/main/captain%20tsubasa%20junior%20youth%20he
 
-
-
 ____naruto-----
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qLMYx1h38OY6PcNkHDkZeCGlaOU.jpg" group-title="Naruto S",Naruto Shippuden 1
 https://raw.githubusercontent.com/AaronCoyu/NarutoShippuden/main/T1
@@ -258,15 +256,14 @@ PUBLICAR ACA LOS ANIMES POCAS TEMPORADAS CON SU GENERO..
 
 
 
+#EXTINF:-1 tvg-logo=""group-title="",
 
+#EXTINF:-1 tvg-logo=""group-title="",
 
-
-
-
-
+#EXTINF:-1 tvg-logo=""group-title="",
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/y2jzEQ6Yqhw1rHuNANeO0L741zf.jpg"group-title="Ciencia Ficcion",Casshern Sins (2008)
-
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Casshern%20Sins%20(2008)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/rvKqdJUmTjx99sOapCrTjIvwYP2.jpg"group-title="Comedia Romantica",Azumanga Daioh (2002)
 https://archive.org/download/azumanga-daioh-subs-en-esp-lat/Azumanga%20Daioh.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ZkvF2ASZD3gLDnn2ZJ7L7RGSBc.jpg"group-title="Fantasia",The Red Ranger Becomes an Adventurer in Another World (2025)
