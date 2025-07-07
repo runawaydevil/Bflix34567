@@ -5,16 +5,12 @@ ______Ao no Exorcist_______
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/56M6i3Xo3kCIR8O6LB9j5pgEgpc.jpg"group-title="AO NO EXORCIST", Ao no Exorcist (2011)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8y1A1M5egr8Nvw3MXBX1ttEHNf0.jpg"group-title="AO NO EXORCIST", Ao no Exorcist (2011)
 https://raw.githubusercontent.com/tokio14-dot/demonio/refs/heads/main/01
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/84jWSIUi2PxaNoGD2qJe4CY1jDX.jpg"group-title="AO NO EXORCIST", Ao no Exorcist: Kyoto Fujoo-hen (2017)
 https://raw.githubusercontent.com/tokio14-dot/demonio/refs/heads/main/02
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/e6ni5MMcwNsk0r2JvZqlJyF9ksS.jpg"group-title="AO NO EXORCIST", Ao no Exorcist: Shimane Keimei Kessha-hen (2024)
 https://raw.githubusercontent.com/tokio14-dot/demonio/refs/heads/main/03
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hnni9Ph5rsJnf33F6MtXtgWCNsM.jpg"group-title="AO NO EXORCIST", Ao no Exorcist: Yuki no Hate-hen (2024)
 https://raw.githubusercontent.com/tokio14-dot/demonio/refs/heads/main/04
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wEJRsCI6BfdbEAhrFRW8fJPuShU.jpg"group-title="AO NO EXORCIST", Ao no Exorcist: Yosuga-hen (2025)
 https://raw.githubusercontent.com/tokio14-dot/demonio/refs/heads/main/05
 
@@ -69,7 +65,10 @@ _____SLAM DUNK____
 https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/slamduk
 ______LOS CABALLEROS DEL ZODIACO____
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kgRLZ95mibXMb6UjPhly0W92IUs.jpg"group-title="LOS CABALLEROS DEL ZODIACO",LOS CABALLEROS DEL ZODIACO(1986)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kgRLZ95mibXMb6UjPhly0W92IUs.jpg"group-title="LOS CABALLEROS DEL ZODIACO",LOS CABALLEROS DEL ZODIACO
 https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/caballeros.txt
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9RTWmNrzy7IfpdpMOynjT5KDfVP.jpg"group-title="LOS CABALLEROS DEL ZODIACO",casa santusrio
+https://raw.githubusercontent.com/AaronCoyu/CDZ1/main/Caballeros%2001
 ______digimon____
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mUhLvUY0ndhxWr1xmDp6bZgddUZ.jpg"group-title="DIGIMON",Digimon: Digital Monsters (1999)
 https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/digimon
@@ -120,10 +119,9 @@ https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/myhero7
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/myxWINN4lV2YRtb3DcCi7UFn6C5.jpg"group-title="BOKU NO HERO",Final Season
 _________________________________
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg",Castlevania (2017)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg"group-title="Castlevania",Castlevania (2017)
 https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/castlevania.m3u
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9RTWmNrzy7IfpdpMOynjT5KDfVP.jpg" group-title=“Caballeros del Zodiaco”,Saga Santuario
-https://raw.githubusercontent.com/AaronCoyu/CDZ1/main/Caballeros%2001
+
 
 
 ____super campeones_____
