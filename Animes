@@ -3,10 +3,10 @@
 
 ________Evangelion______
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1FHZmNWcyz5zzGH2PQf1w0S4JZ1.jpg"group-title="Evangelion",Evangelion - Colección
-
-
-
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8t5BmqgaYQQckYXF4Q9M1cVnqXt.jpg"group-title="Evangelion",Neon Genesis Evangelion (1995)
+https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/neo%20g%C3%A9nesis
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yYFbJ6Kfugp6ZpgMs1TDWvhAv0a.jpg"group-title="Evangelion",peliculas
+https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/neogenpelicu
 
 ______Ao no Exorcist_______
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/56M6i3Xo3kCIR8O6LB9j5pgEgpc.jpg"group-title="AO NO EXORCIST", Ao no Exorcist (2011)
