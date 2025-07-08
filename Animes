@@ -133,8 +133,6 @@ _________________________________
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg"group-title="Castlevania",Castlevania (2017)
 https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/castlevania.m3u
 
-
-
 ____super campeones_____
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zHgc9nTXiP77qoy14BO7WUFTwkp.jpg"group-title="superCampeones",superCampeones
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/IbNbWaz27Fco2CM8vy2gHlUPbX.jpg"group-title="superCampeones",PELICULAS
@@ -258,7 +256,7 @@ PUBLICAR ACA LOS ANIMES POCAS TEMPORADAS CON SU GENERO..
 
 #EXTINF:-1 tvg-logo=""group-title="",
 
-#EXTINF:-1 tvg-logo=""group-title="",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eHlatCGzEQaxzq6LnSxSENKHlnJ.jpg"group-title="Fantasia",Tragones y mazmorras (2024)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/il4EibBwnvjDOpd2eLGAA26Ekrz.jpg"group-title="Fantasia",La posada de Okko (2018)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Okko%E2%80%99s%20Inn%20(2018)
