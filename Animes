@@ -9,8 +9,6 @@ ______Dan Da Dan____
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/dandan01
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/49oPeCBsiVtHeCZf1kx1eIynKhz.jpg"group-title="Dan da Dan",Dan da Dan (2025)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/dandan02
-
-
 _______Voltron_______
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yWAGNuPuUWJT9gIQmGdZiTGJWzh.jpg"group-title="Voltron",Voltron: El defensor legendario (2016)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/El%20defensor%20legendario%20(2016)
@@ -86,10 +84,11 @@ https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/slamduk
 
 ___LOS CABALLEROS DEL ZODIACO____
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kgRLZ95mibXMb6UjPhly0W92IUs.jpg"group-title="LOS CABALLEROS DEL ZODIACO",LOS CABALLEROS DEL ZODIACO(1986)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kgRLZ95mibXMb6UjPhly0W92IUs.jpg"group-title="LOS CABALLEROS DEL ZODIACO",LOS CABALLEROS DEL ZODIACO
-https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/caballeros.txt
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9RTWmNrzy7IfpdpMOynjT5KDfVP.jpg"group-title="LOS CABALLEROS DEL ZODIACO",casa santuario
 https://raw.githubusercontent.com/AaronCoyu/CDZ1/main/Caballeros%2001
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kgRLZ95mibXMb6UjPhly0W92IUs.jpg"group-title="LOS CABALLEROS DEL ZODIACO",Los Caballeros del Zodiaco (1986)
+https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/caballeros.txt
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zsfWe03fMUkcQrKbmap0C5FXiMk.jpg"group-title="LOS CABALLEROS DEL ZODIACO", La saga de Hades (2002)
 https://raw.githubusercontent.com/tokio14-dot/ziadiaco/refs/heads/main/enlaces%20hades
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qVF43Xc6brE0AU4tCMxxd4D82Vz.jpg"group-title="LOS CABALLEROS DEL ZODIACO", El Lienzo Perdido (2009)
@@ -100,7 +99,8 @@ https://raw.githubusercontent.com/tokio14-dot/ziadiaco/refs/heads/main/Omega%20(
 https://raw.githubusercontent.com/tokio14-dot/ziadiaco/refs/heads/main/alma%20de%20oro%20(2015)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k0lbN5i4USbSEdbEhjc0l0JwOs6.jpg"group-title="LOS CABALLEROS DEL ZODIACO", Saintia Sho (2018)
 https://raw.githubusercontent.com/tokio14-dot/ziadiaco/refs/heads/main/Saintia%20Sho%20(2018)
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gTKE0JACr5mydByGfUJWr8Q8AXW.jpg"group-title="LOS CABALLEROS DEL ZODIACO",PELICULAS,OVAS
+https://raw.githubusercontent.com/tokio14-dot/ziadiaco/refs/heads/main/pelis
 
 ______digimon____
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mUhLvUY0ndhxWr1xmDp6bZgddUZ.jpg"group-title="DIGIMON",Digimon: Digital Monsters (1999)
