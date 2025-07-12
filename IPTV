@@ -16,9 +16,9 @@ https://1drv.ms/v/c/5eac7663af21db52/EVLbIa9jdqwggF5xAAAAAAABmQbragrAo04-kdgj0Lj
 #EXTINF:-1 tvg-logo=""group-title="pruebas",c2
 https://raw.githubusercontent.com/Matnos2/listas/main/PELIS/INFANTIL.m3u
 #EXTINF:-1 tvg-logo=""group-title="pruebas",c4
-https://dl.dropbox.com/scl/fi/k2j93t4d7obq499ef599f/seriesday_disney-plus.m3u?rlkey=0besu9elc8f7nqtjpopqltzrr&dl=0
-#EXTINF:-1 tvg-logo="pruebas",09
-https://geo.dailymotion.com/player.html?video=x9jdum2
+
+#EXTINF:-1 tvg-logo="pruebas",10
+https://iptv-org.github.io/iptv/categories/animation.m3u
 #EXTINF:-1 tvg-logo="prueba",mati
 https://raw.githubusercontent.com/Tomas2007000/Nexus-Channel/refs/heads/main/Nexus-Channel/Nexus-Channel.m3u
 #EXTINF:-1 tvg-logo="pruebas",torrent
