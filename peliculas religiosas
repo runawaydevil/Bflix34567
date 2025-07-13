@@ -1,14 +1,29 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qARWQT6t3FV85Qd2rmzy9WQBIU4.jpg",
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qARWQT6t3FV85Qd2rmzy9WQBIU4.jpg",
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qARWQT6t3FV85Qd2rmzy9WQBIU4.jpg",
 
-#EXTINF:-1 tvg-logo="",
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qARWQT6t3FV85Qd2rmzy9WQBIU4.jpg",
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qARWQT6t3FV85Qd2rmzy9WQBIU4.jpg",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qARWQT6t3FV85Qd2rmzy9WQBIU4.jpg",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qARWQT6t3FV85Qd2rmzy9WQBIU4.jpg", Deuteronomio
+https://archive.org/download/deuteronomy-in-spanish/Deuteronomy%20in%20Spanish.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qARWQT6t3FV85Qd2rmzy9WQBIU4.jpg", Exodo
+https://archive.org/download/exodus-in-spanish/Exodus%20in%20Spanish.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qARWQT6t3FV85Qd2rmzy9WQBIU4.jpg", Numeros
+https://archive.org/download/numbers-in-spanish/Numbers%20in%20Spanish.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cSBVa5EaBO0yS9T3XY1NH6TSCBy.jpg", Levítico 
 https://archive.org/download/leviticus-in-spanish/Leviticus%20in%20Spanish.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qARWQT6t3FV85Qd2rmzy9WQBIU4.jpg",genesis
-https://archive.org/download/genesis-in-spanish/__ia_thumb.jpg
+https://archive.org/download/genesis-in-spanish/Genesis%20in%20Spanish.mp4
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zzXU586n4uDBgMtVMPPQW7UJwu8.jpg",El Apocalipsis de san Juan (2024)
 https://dl.dropbox.com/scl/fi/6zqgyq6xn2en1w41d2t2u/BFLIXjuanspo.mp4?rlkey=omjmnlz7ma15fg3pj15v85ivl&st=43g17p6k&dl=0
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w220_and_h330_face/7S7pYwksd1yeV9EIb5MtInya6am.jpg"group-title="", Si Dios fuera el sol
