@@ -3,9 +3,7 @@
 
 
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="Bring Her Back (2025)" tvg-logo="https://image.tmdb.org/t/p/original/tObSf1VzzHt9xB0csanFtb3DRjf.jpg",Bring Her Back (2025)
-https://archive.org/download/bring.-her.-back.-2025.1080p.-webrip.x-264.-aac-5.1-yts.-mx/Bring.Her.Back.2025.1080p.WEBRip.x264.AAC5.1-%5BYTS.MX%5D.mp4
-#EXTVLCOPT:sub-file=https://archive.org/download/bring.-her.-back.-2025.1080p.-webrip.x-264.-aac-5.1-yts.-mx/%5BSubtitleTools.com%5D%20Latin%20American.spa.asr.srt
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uC3lzzgOUgkubje7HR20qznAAGj.jpg",se alimenta (2025)
 https://archive.org/download/02_20250630_20250630_2006/er/05.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hhkiqXpfpufwxVrdSftzeKIANl3.jpg",Locked (2025)
