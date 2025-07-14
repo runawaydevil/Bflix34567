@@ -1,7 +1,8 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Enfrentando_temores-477537975-large.jpg",Enfrentando temores
+https://archive.org/download/enfrentando.-temores.-2006.-dvdrip.-xvi-d.-lati-no_202506/Enfrentando.Temores.2006.DVDRip.XViD.LATiNO.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qARWQT6t3FV85Qd2rmzy9WQBIU4.jpg", Apocalipsis
 https://archive.org/download/revelation-in-spanish.ia/Revelation%20in%20Spanish.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qARWQT6t3FV85Qd2rmzy9WQBIU4.jpg", Juan
