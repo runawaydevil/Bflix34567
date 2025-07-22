@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:deinterlace-mode=yadif
+#EXTVLCOPT:avcodec-hw=any
+#EXTVLCOPT:clock-jitter=0
+
 #EXTGRP:Disney+
 
 
