@@ -6,6 +6,8 @@
 
 #EXTGRP:Disney+
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sp54jkorVJHQ52WE5U7rbNjGnrC.jpg",En la victoria o en la derrota (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/En%20la%20victoria%20o%20en%20la%20derrota%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oJfZI4pXQQBQutHT15y0evJNGZv.jpg",Washington Black (2025)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Washington%20Black%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AmzGVKlLvpraNAXxPYUROiN2Ulj.jpg",Ironheart (2025)
