@@ -16,17 +16,17 @@ https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Washi
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Ironheart%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4QzuQqYF7SN4H8IxqfMUfz5A64V.jpg",Camaleon: El pasado no cambia (2025)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Camaleon%20El%20pasado%20no%20cambia%20(2025)
-
-
-________Star Wars________
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9b6XFApT34dkGrmOZnTk7noyNx8.jpg",Daredevil: Born Again (2025)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Daredevil%20Born%20Again%20(2025)
+________Star Wars________
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ooR0a268nALCaP0D1xZHjjnXzEk.jpg", Star Wars: Cronicas del submundo (2025)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Star%20Wars%20Cr%C3%B3nicas%20del%20submundo%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hVIvwh1wIzWYjG2Hzb5ztoBwEFl.jpg", Star Wars The Acolyte (2024)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/The%20Acolyte%20(2024)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zcuJsJEhaORzxaz6aRxm66NWgt7.jpg",Star Wars Ahsoka (2023)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Ahsoka%20(2023)
+#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ahsoka-1692780038.png"group-title="Disney+",Ahsoka
+https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Ahsoka
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oU1Vy0tDktgwyq2IZXdb3tvogh8.jpg", Star Wars: Cronicas del Imperio (2024)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Star%20Wars%20Cr%C3%B3nicas%20del%20Imperio%20(2024)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/e3cWQzBxHK803AbZGjp1feQFgyS.jpg",Star Wars Andor (2022)
@@ -35,10 +35,25 @@ https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Star%
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Star%20wars%20El%20libro%20de%20Boba%20Fett%20(2021)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/nQtN7cDR2QQgbleIkGkhFqXIr0X.jpg",Star Wars: Visions (2021)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Star%20Wars%20Visions%20(2021)
+
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTVjNTVjMDMtNjUyMC00ZmM0LWE4OWMtMWZkNzY4NjM0NDMzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg",Star Wars: La remesa mala (2021)
+https://archive.org/download/elch4v0/sTARWA.m3u
+
+#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/7h3m4n.jpg" group-title="Disney+",LATINO MANDALORIAN (2019)
+http://archive.org/download/shing089/7H3M4ND4L0.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/7h3m4n.jpg" group-title="Disney+",THE MANDALORIAN (2019)
+http://archive.org/download/m-4-nd-4-l-0-r-1-an-0-temp-01-m-3-u/M4ND4L0R1AN0TEMP01M3U.m3u
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE MANDALORIAN.jpg" group-title="Disney+",THE MANDALORIAN (2019)
+http://archive.org/download/ns_20210520/THMDLRNO.m3u
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lhEBuORZ7mwf57YPgbz0W8YcMew.jpg",Star Wars: Fuerzas del Destino (2017)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Star%20Wars%20Fuerzas%20del%20Destino%20(2017)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eLrScs6Bs26JMcS8hiZhf7YRROr.jpg",Star Wars Rebels (2014)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Star%20Wars%20Rebels%20(2014)
+#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/STAR WARS LA GUERRA DE LOS CLONES.jpg",STAR WARS LA GUERRA DE LOS CLONES (2008)
+http://archive.org/download/ns_20210520/CLONE.m3u
+#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-1N2pHNvkx8U/VSIF_aeog9I/AAAAAAABo0k/r-Vwe9UEzMs/s1600/Star%2BWars%2BLa%2BGuerra%2BDe%2BLos%2BClones%2B%2B.jpg",Star Wars Guerra De Clones (2008)
+https://archive.org/download/kkkkk_202101/574rW4r5L46u3rr4D305Cl0n35.m3u
 
 
 
@@ -59,24 +74,15 @@ https://archive.org/download/elch4v0/haw.m3u
 http://archive.org/download/ns_20210520/hechizo.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_FMjpg_UX1000_.jpg" group-title="Disney+",LOKI
 https://raw.githubusercontent.com/Imag7/Imagt/main/Lok
-#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/7h3m4n.jpg" group-title="Disney+",LATINO MANDALORIAN
-http://archive.org/download/shing089/7H3M4ND4L0.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/MARVEL RUNAWAYS.jpg" group-title="Disney+",MARVEL RUNAWAYS
 http://archive.org/download/marvel_20200522/Marvel.m3u
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BYzdhODc3OTctODc2ZS00MjIxLWIxMzAtY2M0M2UwMjFiNzNhXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Disney+",SOCIOS Y SABUESOS
 https://archive.org/download/elch4v0/sys.m3u
-#EXTINF:-1 tvg-logo="https://3.bp.blogspot.com/-1N2pHNvkx8U/VSIF_aeog9I/AAAAAAABo0k/r-Vwe9UEzMs/s1600/Star%2BWars%2BLa%2BGuerra%2BDe%2BLos%2BClones%2B%2B.jpg" group-title="Disney+",Star Wars Guerra De Clones
-https://archive.org/download/kkkkk_202101/574rW4r5L46u3rr4D305Cl0n35.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/STAR WARS LA GUERRA DE LOS CLONES.jpg" group-title="Disney+",STAR WARS LA GUERRA DE LOS CLONES
-http://archive.org/download/ns_20210520/CLONE.m3u
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZTVjNTVjMDMtNjUyMC00ZmM0LWE4OWMtMWZkNzY4NjM0NDMzXkEyXkFqcGdeQXVyMTEyMjM2NDc2._V1_FMjpg_UX1000_.jpg" group-title="Disney+",Star Wars The Bad Batch
-https://archive.org/download/elch4v0/sTARWA.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE DEFENDERS.jpg" group-title="Disney+",THE DEFENDERS
 http://archive.org/download/ns_20210520/DEFENDER.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/shing089/7h3m4n.jpg" group-title="Disney+",THE MANDALORIAN
-http://archive.org/download/m-4-nd-4-l-0-r-1-an-0-temp-01-m-3-u/M4ND4L0R1AN0TEMP01M3U.m3u
-#EXTINF:-1 tvg-logo="http://archive.org/download/125452445445/THE MANDALORIAN.jpg" group-title="Disney+",THE MANDALORIAN
-http://archive.org/download/ns_20210520/THMDLRNO.m3u
+
+
+
 #EXTINF:-1 tvg-logo="http://archive.org/download/wv-2_20210119/WV.jpg" group-title="Disney+",Wandavision
 https://archive.org/download/elch4v0/w.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/92bJ5Ja4oEoun9zFvAOMVtaNfrA.jpg" group-title="Disney+",WHAT IF?
@@ -88,8 +94,7 @@ https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/he
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/agatha-en-todas-partes.jpg" group-title="Disney+",Agatha en todas partes (2024) latino
 https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Agatha%20en%20todas%20partes
 
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/ahsoka-1692780038.png"group-title="Disney+",Ahsoka
-https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Ahsoka
+
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/invasion-secreta-1689220912.png" group-title="Disney+", Invasion Secreta
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Invasion%20secreta
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/obi-wan-kenobi-2-1669011161.jpg" group-title="Disney+",Obi-wan kenobi
