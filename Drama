@@ -1,7 +1,7 @@
 #EXTM3U
 
-
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qtNdrKvD5MqvUbAQEja5WaKuVN1.jpg",King Ivory (2025)
+https://archive.org/download/king-ivory-2025-latino/king-ivory-2025-%5Blatino%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bKSXHKUw0sk51MA01KeBAuIpnZK.jpg",Entre los templos (2024)
 https://archive.org/download/crisis-de-fe-2024-2castellano/crisis-de-fe-2024-2%5Bcastellano%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qnqvxOgcEYaePEFkIqRPovpsBl.jpg",La furia (2025)
