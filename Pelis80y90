@@ -3,10 +3,18 @@
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aMgW99ojHwIQkPEVGnwiO6vJvLY.jpg"group-title="Accion",desafío total (1990)
 https://archive.org/download/desafio-total-1990/Desafio%20Total%201990.mp4
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/infierno-rojo.jpg" group-title="Accion",Infierno rojo (1988) 720p latino
-https://cache018.peliscdn.online/newhls/11be51808f834d2459b6974c5284e34f/EP.0.2.v0.1709981851.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/robocop-1-1987.jpg" group-title="Accion",Robocop 1 (1987) 720p latino
-https://cache007.peliscdn.online/newhls/ca8a816e4e870eb8920c6fbfeb281805/EP.0.1.v0.1709214948.720.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aWUZ3gcjaWzjEr0KcZubpeJ4hFr.jpg" group-title="Accion",Robocop 1 (1987) 720p latino
+https://dl.dropboxusercontent.com/scl/fi/qme2qhnj9axyeq2m0i9tu/R2O3B4OC4O1P-P1AR4T3E-1.mp4?rlkey=bmzrp5kyxuo0nlw6fawv1wqtf&st=h3qs0h7n
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aWUZ3gcjaWzjEr0KcZubpeJ4hFr.jpg" group-title="Accion",Robocop 1 (1987) 480p latino
+https://dl.dropboxusercontent.com/scl/fi/gificy4iqi4rjdbbzf9hy/R1O3B4OC4O1P-1.mp4?rlkey=brc6jbq0ibyvicx24th7p83dj&st=3obk7oku
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bIWSkAKxCUCRuaxef9a9HACwXvN.jpg" group-title="Accion",Robocop 2 (1990) 720p latino
+https://dl.dropboxusercontent.com/scl/fi/10rnwy34v1qtflmtz3uck/R1O3B4OC4O1P-P1AR4T3E-2.mp4?rlkey=vf14gxo5kkm5jtt39gyxvhuzq&st=n41cyrg2
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bIWSkAKxCUCRuaxef9a9HACwXvN.jpg" group-title="Accion",Robocop 2 (1990) 480p latino
+https://dl.dropboxusercontent.com/scl/fi/6zvmaitltzyr14iy648jo/R1O3B4OC4O1P-2.mp4?rlkey=eswbhsa18nbo2644j0wkh6d3b&st=pv6c2qin
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nEPpCbdh5UKspPgaH57SFzFJYw.jpg" group-title="Accion",Robocop 3 (1993) 720p latino
+https://www.dropbox.com/scl/fi/g7gcmhtq9rzsfye4n78ab/R1O3B4OC4O1P-P1AR4T3E-3.mp4?rlkey=4455q9wvbeuqjdhf94u3xf1rt&st=dyd752a9&dl=0
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nEPpCbdh5UKspPgaH57SFzFJYw.jpg" group-title="Accion",Robocop 3 (1993) 480p latino
+https://dl.dropboxusercontent.com/scl/fi/fdxgbjd8o9elihvc0xo37/R1O3B4OC4O1P-3.mp4?rlkey=k8n8s7b2x5hw1vyqdiif3wb2r&st=wqo3q7wc
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/rambo-primera-sangre.jpg" group-title="Accion",Rambo 1 (1982) 720p latino
 https://cache012.peliscdn.online/newhls/d38c0a6bffc59e7f565fc08529b2b649/EP.0.1.v0.1708747253.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/rambo-ii.jpg" group-title="Accion",Rambo 2 (1985) 720p latino
@@ -15,18 +23,32 @@ https://cache016.peliscdn.online/newhls/c402dafe8cc9704c012006f34bc3e26d/EP.0.1.
 https://cache017.peliscdn.online/newhls/5764305278f453be45802ca6cb52d41e/EP.0.1.v0.1709063405.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/cobra-el-brazo-fuerte-de-la-ley.jpg" group-title="Accion",Cobra: El brazo fuerte de la ley (1986) 720p latino
 https://cache016.peliscdn.online/newhls/870df91c308d5bfbada7ad16b4ca72c5/EP.0.1.v0.1709227336.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/encerrado.jpg" group-title="Accion",Encerrado (1989) 720p latino
-https://cache020.peliscdn.online/newhls/b4380c40fd3f7b1a649da1d02180e742/EP.0.1.v0.1708968070.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/tango-y-cash.jpg" group-title="Accion",Tango & Cash (1989) 360p latino
-https://cache006.peliscdn.online/newhls/fa996da1b6d28f13ebb64ca5d895e6a8/EP.0.2.v0.1709912518.360.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/comando.jpg" group-title="Accion",Comando (1985) 720p latino
-https://cache018.peliscdn.online/newhls/498e4f8ce654c24888740dc80208eb5d/EP.0.1.v0.1709073419.720.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xAXLra2j06GGO00m8d0d7GVcEr.jpg" group-title="Accion",Encerrado (1989) 720p latino
+https://dl.dropboxusercontent.com/scl/fi/dxoh6v0dbb8xaeemefsny/1E3NC1ERR1A3DO.mp4?rlkey=cm63sc600akwbopjjrhfr0tws&st=j3neuduy
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/xAXLra2j06GGO00m8d0d7GVcEr.jpg" group-title="Accion",Encerrado (1989) 480p latino
+https://dl.dropboxusercontent.com/scl/fi/m3qai4wnsaqdtb1e5xe8s/E45BNCE1RR4AD1O.mp4?rlkey=ih81869a0pvp4g9k5tavj8j5b&st=quiywfiw
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hcrhz0UP90Qz7b2TzRE01X6pJnS.jpg" group-title="Accion",Tango y Cash (1989) 720p latino
+https://dl.dropboxusercontent.com/scl/fi/6vpws1czoh2jlqkgcea1c/T14QA4NG1O-4Y-C1A3S4H.mp4?rlkey=a9cbgku04g3k7c4cdqoctbqyl&st=phrm1wdg
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/hcrhz0UP90Qz7b2TzRE01X6pJnS.jpg" group-title="Accion",Tango y Cash (1989) 480p latino
+https://dl.dropboxusercontent.com/scl/fi/4kfteo971er93x34nftxw/TA14N5GO-15Y-C14AS4H.mp4?rlkey=2i7duoelrbb3tg7woldzgsc89&st=76yfuusw
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cA6a4xW76bNZdXZKLCr4YkdpElK.jpg" group-title="Accion",Comando  (1985) 720p latino
+https://dl.dropboxusercontent.com/scl/fi/sdu0alu47kk4jupb5auqm/C4O8M1A3ND4O.mp4?rlkey=y9twfr68q099sd88qpftese68&st=i6fukx1y
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/cA6a4xW76bNZdXZKLCr4YkdpElK.jpg" group-title="Accion",Comando  (1985) 480p latino
+https://dl.dropboxusercontent.com/scl/fi/lof5lwlcj4le9qd8bd135/C3OMM7HHHA4NDIO.mp4?rlkey=dbcj0odqofqc9vp9z24hmjief&st=w7sd0wiv
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/contacto-sangriento-1585858805.jpg" group-title="Accion",Contacto Sangriento (1988) 720p latino
 https://cache012.peliscdn.online/newhls/70608e2acc6c870c461792eb4b2f61a9/EP.0.1.v0.1708878037.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/depredador.jpg" group-title="Accion",Depredador (1987) 720p latino
-https://cache006.peliscdn.online/newhls/b5004873f6eb023c64ee1faf9d351464/EP.0.1.v0.1708746555.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/el-demoledor.jpg" group-title="Accion",El demoledor (1993) 720p latino
-https://cache001.peliscdn.online/newhls/3dd776246b24c867495f80686b334e03/EP.0.1.v0.1708871225.720.m3u8
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bzLLeqhNBNmO6WImHrrmLNyhMxi.jpg" group-title="Accion",Depredador 1 (1987) 720p latino
+https://dl.dropboxusercontent.com/scl/fi/iajm2zbl4e3xrxmmcbkim/D1EPR4AD1D3OR-P1AR4T3-1.mp4?rlkey=56p76qpz8h1y6zfu41z97dk0i&st=y6cdov8f
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/bzLLeqhNBNmO6WImHrrmLNyhMxi.jpg" group-title="Accion",Depredador 1 (1987) 480p latino
+https://dl.dropboxusercontent.com/scl/fi/lf6xoarjfwooi5ti5otnt/P8R4E1DA2T4OR.mp4?rlkey=8yvd4qqn8qbkvltgnwnkv6kqw&st=x5jtr30d
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/92Lqy293CqAExYXlqDc456eYCWp.jpg" group-title="Accion",Depredador 2 (1990) 720p latino
+https://dl.dropboxusercontent.com/scl/fi/afm7t1z10bdp3ko0gyl3h/D1EPR4AD1D3OR-P1AR4T3-2.mp4?rlkey=jm3355l844n1qyak6mcvymmyl&st=pk7ni6ni
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w94_and_h141_bestv2/92Lqy293CqAExYXlqDc456eYCWp.jpg" group-title="Accion",Depredador 2 (1990) 480p latino
+https://dl.dropboxusercontent.com/scl/fi/8y2csl5ho3ndljugzcakf/D4P4R41ED1AT4OTR-2.mp4?rlkey=66hxi7s5jyyfn1rblau89c4vy&st=shgob6hg
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4ibsnd6k5ZIvxPZAUWcKKwCgnab.jpg" group-title="Accion",El Demoledor (1993) 720p latino
+https://dl.dropboxusercontent.com/scl/fi/5kv9iwmgd6210kzdux3is/31EL-D1M3L4OELDEDOO3R.mp4?rlkey=60qlgpe5r5ik4qv4lelg906s9&st=it7k4wli
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/4ibsnd6k5ZIvxPZAUWcKKwCgnab.jpg" group-title="Accion",El Demoledor (1993) 480p latino
+https://dl.dropboxusercontent.com/scl/fi/0dvrqb1qxvtgd71qk0vyr/E3L-D13M4OLE43D1O4R.mp4?rlkey=5bx6rc1twskbs71roitlgrjha&st=hrq6ul1y
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/maximo-riesgo.jpg" group-title="Accion",Máximo Riesgo (1993) 720p latino
 https://cache018.peliscdn.online/newhls/d9b4f3220dacf049d92e8fec1bfb5463/EP.0.1.v0.1709296318.720.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/asesinos.jpg" group-title="Accion",Asesinos (1995) 720p latino
@@ -49,10 +71,7 @@ https://cache017.peliscdn.online/newhls/e830ef5db263da6e5eeefe5a0803d445/EP.0.1.
 https://cache003.peliscdn.online/newhls/23aaaebb20bae67d37b26b1ac186facf/EP.0.1.v1.1709453599.360.m3u8
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/mentiras-verdaderas.jpg" group-title="Accion",Mentiras Verdaderas (1994) 720p latino
 https://cache015.peliscdn.online/newhls/6401bc37baa9143ce4fb830a481db0fa/EP.0.1.v0.1708890844.720.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/robocop-2-1579645805.jpg" group-title="Accion",Robocop 2 (1990) 360p latino
-https://cache012.peliscdn.online/newhls/6978f8ed49e17ec8aaba4c05cfd0b495/EP.0.1.v0.1708955167.360.m3u8
-#EXTINF:-1 tvg-logo="https://pelisimg.online/cover/robocop-3-1579645805.jpg" group-title="Accion",Robocop 3 (1993) 360p latino
-https://cache013.peliscdn.online/newhls/10728b1d3a886b9f3360e92ce561c11a/EP.0.1.v0.1709524806.360.m3u8
+
 
 
 #Infantiles
