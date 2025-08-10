@@ -2,8 +2,10 @@
 
 
 
+#EXTINF:-1 tvg-logo=""group-title="",
 
-
+#EXTINF:-1 tvg-logo=""group-title="https://image.tmdb.org/t/p/original/i8gU1VNQyZ2xiZ9e19DTZBdJ7dU.jpg",La mano del hombre muerto (2023)
+https://archive.org/download/la-muerte-en-su-mano-castellano-hdfull/La%20muerte%20en%20su%20mano%20Castellano%20HDFull.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/23YyIO9AgZUPWdwyqbX8VkJWZjk.jpg",Chica cabra (2025)
 https://archive.org/download/la-nina-de-la-cabra-castellano-hdfull/La%20ni%C3%B1a%20de%20la%20cabra%20Castellano%20HDFull.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hfBwdvdp11wiMqdipxIY4dOzBUC.jpg",sorda (2025)
