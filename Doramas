@@ -1,6 +1,18 @@
 #EXTM3U
 #EXTGRP: K-Dramas
 
+
+
+
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8Pz7dZRjuxoRzwYBMLdVBTtcEBi.jpg",Treinta y Nueve (2022)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Treinta%20y%20Nueve%20(2022)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k5iEn12RF4WQuxwY5kZa5SYu83M.jpg",No hay boda sin caos (2022)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/No%20hay%20boda%20sin%20caos%20(2022)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xMS6lD7limzP1PuhFZc5hXibxXl.jpg",Recuerdos de juventud (2020)
