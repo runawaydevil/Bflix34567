@@ -8,8 +8,8 @@
 
 #EXTINF:-1 tvg-logo=""group-title="Netflix",
 
-#EXTINF:-1 tvg-logo=""group-title="Netflix",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o9KmWrG9rbFhB7jWW4vFHTmqv28.jpg"group-title="Netflix",Arnold (2023)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Arnold%20(2023)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hGtsGoccGg87FBqsokkoyHWX9cL.jpg"group-title="Netflix",Bulgasal: Almas inmortales (2021)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Bulgasal%20Immortal%20Souls%20(2021)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fNJarIm84EcMPISFtRXuT56rqVI.jpg"group-title="Netflix",mercado (2025)
