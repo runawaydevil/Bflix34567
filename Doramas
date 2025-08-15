@@ -1,7 +1,14 @@
 #EXTM3U
 #EXTGRP: K-Dramas
 
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dqwW7BNSv9Gxmlm8d9GJ70QMtGx.jpg",Love Alarm (2019)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Love%20Alarm%20(2019)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yzcJvKE3tH5qEI83zTU1MqXBZ22.jpg",Mañana (2022)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Ma%C3%B1ana%20(2022)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/1khpDFmRfKtBUJ2VMgJsKBf64PU.jpg",Club de Madres Verdes (2022)
