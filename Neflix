@@ -6,8 +6,8 @@
 
 #EXTINF:-1 tvg-logo=""group-title="Netflix",
 
-#EXTINF:-1 tvg-logo=""group-title="Netflix",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/36XZcHgim0NlxT6y2we4twWZD4A.jpg"group-title="Netflix",Lucifer (2016)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Lucifer%20(2016)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o9KmWrG9rbFhB7jWW4vFHTmqv28.jpg"group-title="Netflix",Arnold (2023)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Arnold%20(2023)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hGtsGoccGg87FBqsokkoyHWX9cL.jpg"group-title="Netflix",Bulgasal: Almas inmortales (2021)
