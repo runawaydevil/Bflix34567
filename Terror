@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/k0PqbsIRcmmm5wzO2mLQLa2SEjL.jpg",La venganza del Papa (2025)
+https://archive.org/download/la-venganza-de-popeye-2025-latino/la-venganza-de-popeye-2025-%5Blatino%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bEOvj0cEDHTXiyYlCSJ76BpzPuB.jpg",Doble Traición (2025)
 https://archive.org/download/doble-traici-n-2025-latino/doble-traici-n-2025-%5Blatino%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3mXM43f6SXAaVjTDH4IDdxzFa2n.jpg",Los condenados (2025)
