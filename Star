@@ -4,8 +4,8 @@
 
 #EXTINF:-1 tvg-logo=""group-title="",
 
-#EXTINF:-1 tvg-logo=""group-title="",
-
+#EXTINF:-1 tvg-logo=""group-title="https://image.tmdb.org/t/p/original/wYBsKEFU0qHdhSI9QtQjL8HELMn.jpg",Duster (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Duster%20(2025)
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Viudas%20negras%20Ptas%20y%20chorras%20(2025)"group-title="Star+",Viudas negras Ptas y chorras (2025)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Viudas%20negras%20Ptas%20y%20chorras%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5NBVnp1Alm8xf6vfM9X6gpIZUNd.jpg"group-title="Star+",Nada (2023)
