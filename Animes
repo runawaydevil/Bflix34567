@@ -1,7 +1,8 @@
  #EXTM3U
 
-
-
+NARUTO LATINO
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/z9FtN2TpD77RtqhkoJEEasHGx6H.jpg"group-title="Naruto",Naruto (2002)
+https://raw.githubusercontent.com/tokio14-dot/naru-2002-/refs/heads/main/enla
 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lzh49cRWKSjNm98Cov0bBDvBww7.jpg"group-title="Monster Farm",Monster Farm (1999)
