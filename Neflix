@@ -1,10 +1,8 @@
 #EXTM3U
 #EXTGRP: Netflix
 
-#EXTINF:-1 tvg-logo="",
-
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cRv9pVrUiAPWWgqzJgRfS81oijz.jpg"group-title="Netflix",Dos tumbas (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Dos%20tumbas%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xu8cHTI9lAKgxQ4YHjhrvbeSlnS.jpg"group-title="Netflix",las muertas (2025)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/las%20muertas%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/hpeaMzflHMEepUGiCjXld7lrnC2.jpg"group-title="Netflix",Marianne (2019)
