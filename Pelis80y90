@@ -1,6 +1,10 @@
 #EXTM3U
 
 #Accion
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odUW8lKgpJHX6ilcUYIderenTxZ.jpg"group-title="",Warlock (1989)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oprNZ2BvJG9ZV2g3JYeWQgsOZHe.jpg"group-title="",1Michael (1996)
+
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aMgW99ojHwIQkPEVGnwiO6vJvLY.jpg"group-title="Accion",desafío total (1990)
 https://archive.org/download/desafio-total-1990/Desafio%20Total%201990.mp4
@@ -130,3 +134,13 @@ https://cache005.peliscdn.online/newhls/3fc258a62d96097e410211ebcbd4796f/EP.0.1.
 https://cache005.peliscdn.online/newhls/1a1d259114c9ffd19a2114d0ddff2a09/EP.0.1.v0.1708925197.720.m3u8
 #EXTINF:-1  tvg-logo="https://pelisimg.online/cover/dr-dolittle-1585865404.jpg" group-title="Infantiles",Doctor Dolittle (1998) 720p latino
 https://cache007.peliscdn.online/newhls/64c05f2ff65c1f4985aea453e6a5d3d8/EP.0.1.v0.1708910425.720.m3u8
+
+
+
+
+
+
+
+
+
+
