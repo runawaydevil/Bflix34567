@@ -7,7 +7,12 @@
 #EXTGRP:Disney+
 
 
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kapSJwIzMBJ81HQxCbAvHRUdn3h.jpg",La chica robada (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/La%20chica%20robada%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2Gyy14N4Tdv44OtxPRADcuIIEfJ.jpg",Low Life (2025)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Low%20Life%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ciC9rTPekPqzDyXwnITDU9xk46A.jpg",Mil golpes (2025)
