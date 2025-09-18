@@ -8,6 +8,10 @@
 
 #EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odUW8lKgpJHX6ilcUYIderenTxZ.jpg",Warlock (1989)
+https://archive.org/download/naturales-1/naturales%202.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oprNZ2BvJG9ZV2g3JYeWQgsOZHe.jpg",1Michael (1996)
+https://archive.org/download/naturales-1/naturales%201.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6z2oORuaAmL1K5ZmWz0pHLtxtna.jpg",Harry y los Henderson (1987)
 https://dl.dropbox.com/scl/fi/fcrap2clgv42y19fdgvul/sociales.mp4?rlkey=l1ybbj6m5zbnciu3jwr46vj06&st=y8ul50iu&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3wsQlRUdaHd65Z8baqBA1Y98PQ.jpg",Qué sueños pueden venir (1998)
@@ -20,10 +24,8 @@ https://archive.org/download/mas-alla-de-los-suenos_202507/m%C3%A1s%20all%C3%A1%
 
 
 #Accion
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/odUW8lKgpJHX6ilcUYIderenTxZ.jpg"group-title="",Warlock (1989)
-https://archive.org/download/naturales-1/naturales%202.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oprNZ2BvJG9ZV2g3JYeWQgsOZHe.jpg"group-title="",1Michael (1996)
-https://archive.org/download/naturales-1/naturales%201.mp4
+
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aMgW99ojHwIQkPEVGnwiO6vJvLY.jpg"group-title="Accion",desafío total (1990)
 https://archive.org/download/desafio-total-1990/Desafio%20Total%201990.mp4
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/aWUZ3gcjaWzjEr0KcZubpeJ4hFr.jpg" group-title="Accion",Robocop 1 (1987) 720p latino
