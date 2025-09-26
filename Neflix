@@ -71,9 +71,8 @@ https://archive.org/download/spartacus_202412/DEVILMAN.m3u
 https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Cobra%20Kai%20sexta%20temporada
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wCQP1El20FFncM0lIYcaW3Kq19o.jpg",3% (2016)
 https://github.com/linkarg13/SERIES2/releases/download/M3u/3.m3u
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w220_and_h330_face/v4sbn6IsJGAIZNHjdB4CprvS7zo.jpg",Terminator zero
-https://github.com/Ezeboca109/SERIE33/releases/download/SER44/Terminator.zero.m3u
-
+#EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zEPdAqxCdvHuOAVwbr8tWCQK6A0.jpg" group-title="Netflix",Terminator Zero (2024) latino
+https://raw.githubusercontent.com/Dante5910/Esto-solamente-es-una-prueba/refs/heads/main/Terminator%20Zero
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/the-umbrella-academy.jpg"group-title="Netflix",The Umbrella Academy
 https://raw.githubusercontent.com/BrianRVP/Cuantas/main/The%20Umbrella%20Academy
 #EXTINF:-1 tvg-logo="https://pelisimg.online/cover/sex-education.jpg" group-title="Netflix",Sex education (2023) latino
