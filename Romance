@@ -4,6 +4,11 @@
 
 #EXTINF:-1 tvg-logo="",
 
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/f474M02m9FocBhR6sr4DAkvoM2c.jpg",Downton Abbey El gran final (2025)
+https://archive.org/download/naturales-3_202510/naturales%20%282%29.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oj2y8UYScRemDQTHmq9Kfwe3EpQ.jpg",El corazón de mi niña (2025)
+https://archive.org/download/naturales-3_202510/naturales%20%283%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mtMJEIHjeHcLtvP0tFPAptk1Var.jpg",Rut y Booz (2025)
 https://archive.org/download/sociales-5_202509/sociales%20%286%29.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/s91yhwxBwDPfLUM7qTlJKzxzrV4.jpg",French Lover (2025)
