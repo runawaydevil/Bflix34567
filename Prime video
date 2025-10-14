@@ -2,7 +2,12 @@
 #EXTGRP:Prime video
 
 
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3IeuYKkzf7AyilTXOKYMqjMDht8.jpg",Sin frenos (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Sin%20frenos%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dgtuBsG2F4cGiumtHBKDru7PW9j.jpg",Helluva Boss (2020)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Helluva%20Boss%20(2020)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cf4chvwB40cEpsagSrRaEIqBFoG.jpg",Final Space (2018)
