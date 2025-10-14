@@ -2,7 +2,8 @@
 #EXTGRP: Netflix
 
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ifHhwXs52bofSvgoUWFKPTyIy6v.jpg"group-title="Netflix",la nueva brigada (2025)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/la%20nueva%20brigada%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w200/vYczshDGYktciJdcdxWpWManGiD.jpg"group-title="Netflix",animal (2025)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/animal%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eEwe68oPFFDU4ehZ3sXiETE44Rt.jpg"group-title="Netflix",Boots (2025)
