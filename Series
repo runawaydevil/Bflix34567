@@ -13,7 +13,13 @@ https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Max
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Paramount
 #EXTINF:-1, BFlix®TV HULU
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Hulu
-#EXTINF:-1, BFlix®TV AppleTv
+#EXTINF:-1, BFlix®httpsricaturaricatura AppleTv
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/main/Apple
 #EXTINF:-1 tvg-logo="",BFlix®TV SERIES CLASICAS
 https://raw.githubusercontent.com/BrianRVP/lista.m3u/refs/heads/main/Series%20clasicas
+#EXTINF:-1 ,BFlix®TV Caricatura
+https://raw.githubusercontent.com/BrianRVP/Bflix34567/refs/heads/main/Caricatura
+
+
+
+
