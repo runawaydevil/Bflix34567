@@ -1,5 +1,11 @@
  #EXTM3U
 
+
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yjq2n0agGJfmZQ9NpbYIhuBofcq.jpg",The Rising of the Shield Hero (2019)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/The%20Rising%20of%20the%20Shield%20Hero%20(2019)
+
+
 NARUTO LATINO
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ziAO1LcAi2WVFKpM2hG6CGpvFPy.jpg"group-title="Naruto Shippuden", Shippuden LATINO
 https://raw.githubusercontent.com/tokio14-dot/naru-2002-/refs/heads/main/01
