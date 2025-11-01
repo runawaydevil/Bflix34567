@@ -14,10 +14,12 @@
 
 #EXTINF:-1 tvg-logo=""group-title="",
 
-#EXTINF:-1 tvg-logo=""group-title="",The Witcher (2019)
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/LnhRnyCLTcqwT4vKwcg61kNIQl.jpg"group-title="Netflix",The Witcher (2019)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/The%20Witcher%20(2019)
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5frjq2ZQ6UysQGCZY4Fh36dmAUd.jpg",La agente encubierta(2015)
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/5frjq2ZQ6UysQGCZY4Fh36dmAUd.jpg"group-title="Netflix",La agente encubierta(2015)
 https://dl.dropbox.com/scl/fi/tfebjzqggzr8m6tq0wdpc/La-agente-encubierta-2015?rlkey=4ej12qaz3qso6kej1zujqvauq&st=die4jedr&.m3u
+
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6rUEuEfaFAyhR4PJV5FRxcGzkrS.jpg"group-title="Netflix",Ell monstruo de Florencia (2025)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/El%20monstruo%20de%20Florencia%20(2025)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6rUEuEfaFAyhR4PJV5FRxcGzkrS.jpg"group-title="Netflix",El monstruo de Florencia (2025)
