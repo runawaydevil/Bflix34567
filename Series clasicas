@@ -1,6 +1,15 @@
 #EXTM3U
 #EXTGRP: Clasic
 
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lelxaTH4ZDuZHjAYPSTFwVHht2E.jpg",Lois y Clark Las Nuevas Aventuras de Superman (1993)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Lois%20y%20Clark%20Las%20Nuevas%20Aventuras%20de%20Superman%20(1993)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lTwy9MLcpyLOwI3ZoyaYL0Hio3H.jpg",Historias para no dormir (1966)
 https://raw.githubusercontent.com/tokio14-dot/cuentos/refs/heads/main/Cuentos%20para%20Mantenerte%20Despierto%20(1966).m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fV5U1eWPC8Dvxq0BUIoF7cvBK1o.jpg",V (1983)
