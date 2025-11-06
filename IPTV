@@ -13,8 +13,8 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis%20del%
 
 
 --------PRUEBA__________
-#EXTINF:-1 tvg-logo=""group-title="prueba",R22
-https://archive.org/download/master_20251016/master.m3u8
+#EXTINF:-1 tvg-logo=""group-title="prueba",R2222
+https://raw.githubusercontent.com/fuzmik/a1xmedia-m3u/refs/heads/main/a1x.m3u
 #EXTINF:-1 tvg-logo=""group-title="prueba",ac3
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/prueba
 #EXTINF:-1 tvg-logo=""group-title="prueba",nexus
