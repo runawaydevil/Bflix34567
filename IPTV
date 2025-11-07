@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/tokio14-dot/sagas/refs/heads/main/pelis%20del%
 --------PRUEBA__________
 #EXTINF:-1 tvg-logo=""group-title="prueba",ttttt
 https://pomf2.lain.la/f/61gqn4n6.m3u
-#EXTINF:-1 tvg-logo=""group-title="prueba",pepe
+#EXTINF:-1 tvg-logo=""group-title="prueba",series
 https://raw.githubusercontent.com/Chanjdm/JDM/refs/heads/main/JDM/masseries.m3u
 #EXTINF:-1 tvg-logo=""group-title="prueba",nexus
 https://raw.githubusercontent.com/ZeruG8/Nexus/refs/heads/main/Nexus/Nexus.m3u
