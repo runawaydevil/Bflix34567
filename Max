@@ -4,8 +4,8 @@
 
 #EXTINF:-1 tvg-logo="",
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/fKz1S0vAEm5adKgfCCP3lNbtsNG.jpg",The Simpsons (1989)
+https://raw.githubusercontent.com/tokio14-dot/simp/refs/heads/main/simp
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vC6LSYC8uhZPkPM01L6HKrr1lMD.jpg",Welcome to derry (2025)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Welcome%20to%20derry(2025)
 #EXTINF:-1 tvg-logo="https://media.themoviedb.org/t/p/w300_and_h450_bestv2/vC6LSYC8uhZPkPM01L6HKrr1lMD.jpg",Welcome to derry (2025) español latino
