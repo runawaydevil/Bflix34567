@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4plB7fMf1xob12ui7kpgnO3h4tJ.jpg"group-title="Cartoon Network",The Ren & Stimpy Show (1991)
+https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/The%20Ren%20%26%20Stimpy%20Show%20(1991)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jpCIjeyiy5MGDTQEcmtwet68urF.jpg"group-title="Cartoon Network",Aventuras de una mosca (2000)
 https://github.com/tokio14-dot/from-3/releases/download/V.1.0.9/fly.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w154/9o6H0I4laiJfjtJ4lbrAmToFPzm.jpg" group-title="Cartoon Network",Chowder (2007) latino
