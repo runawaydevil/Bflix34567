@@ -1,5 +1,12 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8aTla8ofmtJdfhInKyLTyZifA3k.jpg",Mango (2025)
+https://pomf2.lain.la/f/51lidk55.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/y1WpsgfBA5GywXIuqLm9D4aQHNd.jpg",The Idea of You (2024)
 https://dl.dropbox.com/scl/fi/rmvikmqbt6942nxkiz8pr/sociales.mp4?rlkey=bzyj0olpwhljhfis6xj0o5rrf&st=92jnp55p&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ecflk7AZf0ij205yDswjlvdxlCO.jpg",Hedda (2025)
