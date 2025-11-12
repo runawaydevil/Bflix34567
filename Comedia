@@ -1,7 +1,10 @@
 #EXTM3U
 
-___2025____
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7zcrIiAn1SW6C4COlqboHP0L19p.jpg",The Rookie Guide (2025)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wgUmsekYPOt9ZQ8ero91qRnmhQY.jpg",El mayor fan (2025)
 https://pomf2.lain.la/f/71z1sxep.mp4?download=1
@@ -105,10 +108,6 @@ https://dl.dropbox.com/scl/fi/7fr0szlycmkxxlzvotta9/lengua.mp4?rlkey=uvloe508ync
 https://archive.org/download/sociales_202508/50M.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sW0tABq2gGGzdwHKhBs2hupEK11.jpg",The Mask (1994)
 https://archive.org/download/l-2_20250817/L%20%281%29.mp4
-
-
-
-____Otro viernes de locos
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aaCfEpaF6ExUSczGqMPyzkUWAxs.jpg", Otro viernes de locos (2025)
 https://dl.dropbox.com/scl/fi/b4x2r6cakg436b7vm4ta6/matematica.mp4?rlkey=2m31x9ehdrc9rmy8y5801vb0h&st=7t75reil&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/aD1GTKtSAyQIumPoUjslk6IzHxA.jpg",Otro viernes de locos (2018)
@@ -123,9 +122,6 @@ https://dl.dropbox.com/scl/fi/vrl633zemwomarcqkuht8/lenguaje.mp4?rlkey=qushuptjr
 https://dl.dropbox.com/scl/fi/jzzjxlfq6oz3xeyi2vu49/2390912600694.mp4?rlkey=xx0kc3xgjsvxd352qhnotg164&st=1brvamt1&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wNfrU0ofMa3NU8JwQ4X5AJOilJV.jpg",otro viernes loco (1976)
 https://dl.dropbox.com/scl/fi/rwjejl7awuo2u0mlwk082/matematica.mp4?rlkey=frqoxe1h9gpmvt5pbzhhctodn&st=qfevt4xp&dl=0
-#EXTINF:-1 tvg-logo="",
-
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lbpyI9nwzSVDjS7OnE0uC41UciP.jpg",El último encargo (2025)
 https://archive.org/download/el-ltimo-encargo-2025-latino/el-ltimo-encargo-2025-%5Blatino%5D.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iYgTJIA0VbvOzbImrXsHcbKU76G.jpg",La pistola desnuda (2025)
@@ -162,9 +158,6 @@ https://archive.org/download/bflixc-0mp-4n-3ra-1p-3rf-3cta/BFLIXCordi4lment41inv
 https://dl.dropbox.com/scl/fi/17841atls1m0xd0ko4xmy/BFLIXmes4deregal0.mp4?rlkey=pj3q0v54ges40rx350rwh3w9s&st=zmdwa5ky&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/3wGZ9QvjFH3wrNChYFFqbsW0Qge.jpg",La culpa no es mía (2025)
 https://archive.org/download/d3vu37t4.4.747cc10n/BFLIXL4culp4no3sm%C3%AD4.ia.mp4
-____2024y2023____
-
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2iQoSPyAGHseY5NhMM28orLkxjq.jpg",Noche de Bodas (2024)
 https://archive.org/download/C1N3M4-8UC4N3R0/Noche%20de%20Bodas%20%282024%291080p.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gzdsIX1nQZAIcAzIvSuSzKyWI9u.jpg",Deseo irlandés (2024)
@@ -209,9 +202,6 @@ https://archive.org/download/n-0-n-3g-0-c-1abl-3-1/N0%20n3g0C1abl3_1.mp4
 https://archive.org/download/los-infalibles-2024-720p-trial-1.71-gb/Los%20Infalibles%20%282024%29%20720p%20TRIAL%201.71%20GB.mkv
 #EXTINF:-1 tvg-logo="https://archive.org/download/img-20240703-185830-742/IMG_20240703_185830_742.jpg"group-title="",un detective suelto (2024)
 https://archive.org/download/un-detective-suelto-en-hollywood-axel-f.-2024-720p/Un%20Detective%20Suelto%20En%20Hollywood%20Axel%20F.%20%282024%29%20720p.mkv
-
-
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/9iqZ4cES3tuLyHcnURNMwiDaJUb.jpg",Cuidado con lo que deseas (2021)
 https://archive.org/download/cuidado-con-lo-que-deseas_202411/cuidado%20con%20lo%20que%20deseas.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/75sYNXJqmJjnmJG9KAlxhPN33uW.jpg",Jackass Collection
