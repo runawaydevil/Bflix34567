@@ -1,5 +1,12 @@
 #EXTM3U
 
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iiXW7L30x4U89VEyTRmxkIM0lrN.jpg",Ya se verá (2025)
+https://pomf2.lain.la/f/dy33kb4f.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/4Yal9OAEAr1ifWMEPXf76iIYvZR.jpg",La Máquina: The Smashing Machine (2025)
 https://pomf2.lain.la/f/7tnpnu4v.mp4?download=1
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/w3jnacmMmfOem8RAgz9h1h1T4Wa.jpg",Apocalypse in the Tropics (2025)
