@@ -1,6 +1,10 @@
  #EXTM3U
+#EXTGRP:ANIME
 
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c8fHePq3yTn3WvZd4hupkHwsjm5.jpg"group-title="Lord of Mysteries (2025)",Lord of Mysteries (2025)
+https://dl.dropbox.com/scl/fi/9r96133bveac9h0mo3uy0/Lord-of-Mysteries-2025?rlkey=hzquqiuxjhove3urp6o50e67j&st=wkpnc7n7&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8BNGnDKMaDvpmkTd6z9pQL97Upe.jpg"group-title="Kijin Gentoushou",Kijin Gentoushou (2025)
 https://dl.dropbox.com/scl/fi/aoec3xhflhsluue7ktwya/Kijin-Gentoushou-2025?rlkey=trf54vtxgk0nens93sk8yxnx8&st=6gd4cb5i&.m3u
 #EXTINF:-1 tvg-logo=""group-title="",
