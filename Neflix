@@ -4,8 +4,8 @@
 
 #EXTINF:-1 tvg-logo=""group-title="",
 
-#EXTINF:-1 tvg-logo=""group-title="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg"group-title="Netflix",Stranger Things (2016)
+https://dl.dropbox.com/scl/fi/jluib2brhkody6yxbssnd/Stranger-Things-2016.txt?rlkey=cfv3qdxzloqhn94qymp6w0vz1&st=96l1k0jr&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uOOtwVbSr4QDjAGIifLDwpb2Pdl.jpg"group-title="Netflix",Stranger Things (2016)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Stranger%20Things%20(2016).m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ac9e5FC2DlJZZcgBtQ5Jr2973uz.jpg"group-title="Netflix",El cuco de cristal (2025)
