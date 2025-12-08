@@ -1,6 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ghLaj5dBrdUsD4wjq3QERcisr5k.jpg",Sunray: Fallen Soldier (2025)
+https://dl.dropbox.com/scl/fi/eg18k5879eg9mxrx5piq8/f-sica.mp4?rlkey=agybvj9avb6av6mpfgy344fub&st=4ll2yw6i&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kP4380IsiyoQ1EIuJxR1AEIIDPX.jpg",Atena (2025)
 https://pomf2.lain.la/f/duegk7w9.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/cqF7xuZWbBYXWHsp1I1H5PwujPs.jpg",High Ground (2025)
