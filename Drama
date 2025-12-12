@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/8DkQBVesn5ihgYSD66JE7gigzGt.jpg",Las locuras (2025)
+https://pomf2.lain.la/f/09qu67re.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/AnQ1Pti5YaQXEKPxnPgYWcZZkJa.jpg",He soñado con olas (2024)
 https://pomf2.lain.la/f/665v4cdk.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yQ44md3qKEv4ZCDugkYaYIU2T4k.jpg",Lost in the Spotlight (2025)
