@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xg6hPJGl130XkJgwWpBagMHojWz.jpg",El diario de Greg ¡Esto es el colmo (2025)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2jcQNxdAt6ory848JlVGIuKbuKe.jpg",Moon the Panda (2025)
 https://pomf2.lain.la/f/sh5yhw0.mp4
