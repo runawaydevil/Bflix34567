@@ -1,7 +1,10 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ltLqm9f9Ma3iCFmfXNHenzPEqda.jpg",Shaman (2025)
+https://dl.dropbox.com/scl/fi/2u4cpo39oq4jlqh2qu3kl/lengua.mp4?rlkey=n1z0lx5oylum5y6jdg56bmro1&st=tilj28xv&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/pvMHRi09ur2L1drXh2dXFtuMFgl.jpg",Good Boy (2025)
 https://pomf2.lain.la/f/nmfug8lv.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wqzIXix00y0mRbGPhreDvIaQdg1.jpg",El Encanto de la Sirena (2025)
