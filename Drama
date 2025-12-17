@@ -1,6 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qtnYMyp2lsei58xX7W0yKqi2Vgd.jpg",The Travellers (2025)
+https://dl.dropbox.com/scl/fi/px4u9uk6xio6u6wapgdjq/sociales.mp4?rlkey=cfe1uh96an8x7n0m5i00o20us&st=rqafz7zp&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/h5qUhayOi1wPfaCdXBNlcXorBhf.jpg", El último padrino (2025)
 https://dl.dropbox.com/scl/fi/bact1ysiaymb2986qpjox/lengua.mp4?rlkey=0kx0wijloyybdq2m91fcz03xd&st=dionj86l&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/84w8M9fQq0c4fRlKRKuB2frUwpN.jpg",On the Go (2025)
