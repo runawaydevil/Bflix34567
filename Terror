@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/wkZgGYcCQIzX8zvMAHpzg4hFhLF.jpg",Slaughterhouse 2 (2024)
+https://pomf2.lain.la/f/ce3zejxt.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uBlxtCQa3sFQir0nvEFOMB1ZhoA.jpg",Pet Sematary: Bloodlines (2023)
 https://pomf2.lain.la/f/9p0c4k1.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ktEYyuUwreQgE3S8HMRcyxBHonC.jpg",Pet Sematary (2019)
