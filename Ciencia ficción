@@ -1,6 +1,11 @@
 downloadwnloadXTM3U
 #EXTINF:-1 tvg-logo="",
 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bqOqQ2Tawum3eHKNrc94P4EeaZB.jpg", Avatar 2 (2022) - El camino del agua
+https://archive.org/download/02-madera-ser-maestro/02%20madera%20ser%20maestro%20.ia.mp4
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t5T3LPbLLgP2OP6kloM9p2PXpJL.jpg", Avatar (2009)
+https://archive.org/download/feo-guitierrez/feo%20guitierrez.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qIzSyT2AmDxkcQ0zOAeTbtZR9EQ.jpg",El gran diluvio (2025)
 https://pomf2.lain.la/f/bjt0q6ts.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/chpWmskl3aKm1aTZqUHRCtviwPy.jpg",TRON: Ares (2025)
@@ -55,7 +60,6 @@ https://archive.org/download/trota_202507/trota.mp4
 https://dl.dropbox.com/scl/fi/cpl1qdflx74hkbbq95kll/3st4d0.mp4?rlkey=rtd4t568a2cb9oj87z9xchl9s&st=9zng209f&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/oCoTgC3UyWGfyQ9thE10ulWR7bn.jpg",Compañera perfecta(2025)
 https://archive.org/download/bflixc-0mp-4n-3ra-1p-3rf-3cta/BFLIXC0mp4%C3%B13ra1p3rf3cta.ts
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/ao4eKQf4K8qOQWACLSqkwt4y6CT.jpg",Code 8 Part II (2024)
 https://archive.org/download/code-08part-2-latin/Code08part2_Latin.ia.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/z2nfRxZCGFgAnVhb9pZO87TyTX5.jpg",Jung E (2023)
@@ -64,11 +68,6 @@ https://ia801605.us.archive.org/6/items/conjuring-the-beyond_202304/JUNG_E.mp4
 https://dl.dropbox.com/scl/fi/vhodnxfar4j8x51ikyty7/maestrode-madera.mp4?rlkey=4xthk16ia41o3x44c5spc6pgp&st=li39h3ww&dl=0
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/tmGOSFUjCjWJ6ASxfCbCjEyamx.jpg",Alive 2020
 https://archive.org/download/v_20250712/%23V.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bqOqQ2Tawum3eHKNrc94P4EeaZB.jpg", Avatar 2 (2022) - El camino del agua
-https://archive.org/download/02-madera-ser-maestro/02%20madera%20ser%20maestro%20.ia.mp4
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t5T3LPbLLgP2OP6kloM9p2PXpJL.jpg", Avatar (2009)
-https://archive.org/download/feo-guitierrez/feo%20guitierrez.mp4
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/vbuPrwclrYanFF7cVd7NHoqmWD1.jpg",The Wandering Earth (2019)
 https://archive.org/download/l-terr-errnt-3/L%40_T%21err%40_Err%40nt3.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/bx9btF0Jo4rRF68xny7VPqHNt3z.jpg",Star Trek: Sección 31 (2025)
