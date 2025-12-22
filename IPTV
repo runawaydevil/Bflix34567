@@ -23,6 +23,10 @@ https://raw.githubusercontent.com/ZeruG8/Nexus/refs/heads/main/Nexus/Nexus.m3u
 https://wolfeps.shop/wolfps/contenido/videonz.php?id=/pelicula/el-diario-de-greg-esto-es-el-colmo-FlXqkD&.json
 #EXTINF:-1 tvg-logo=""group-title="prueba",prueba 51
 https://vod-limit-stream.dramasfree.com/8f22aba771f74896b625066f7a3939bd/d89ccf5989f8483ea8f6252c632ee620-874c9197c94dd3f67b8d1f88462abdc4-sd.m3u8?hdnts
+#EXTINF:-1 tvg-logo=""group-title="prueba",aladin
+https://fina.dyndns.tv/Peliculas/Aladdin.mkv
+
+
 
 ........ TV.....
 #EXTINF:-1 tvg-logo=""group-title="Plutotv + canales",Canales
