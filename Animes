@@ -1,7 +1,8 @@
  #EXTM3U
-#EXTGRP:ANIME
 
 
+#EXTINF:-1 tvg-logo="https://img.animeflv.cc/cover/shuumatsu-no-walkure.jpg" group-title="Record of Ragnarok",Record of Ragnarok (2021)
+https://raw.githubusercontent.com/tokio14-dot/super/refs/heads/main/Walkyrie2
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/c8fHePq3yTn3WvZd4hupkHwsjm5.jpg"group-title="Lord of Mysteries (2025)",Lord of Mysteries (2025)
 https://dl.dropbox.com/scl/fi/9r96133bveac9h0mo3uy0/Lord-of-Mysteries-2025?rlkey=hzquqiuxjhove3urp6o50e67j&st=wkpnc7n7&.m3u
