@@ -1,6 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/yXPmDhPj26JqEekHIruDtENSrsj.jpg",Kevin Costner presenta: La primera Navidad (2025)
+https://pomf2.lain.la/f/abah7mpi.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sv3kE86knrukjpGTtLLfg246JFx.jpg",The Senior (2025)
 https://pomf2.lain.la/f/iwn77zed.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/qbzGLgO5WBwozGbOaTWALKiTXq9.jpg",Dante Gebel mentiras verdaderas
