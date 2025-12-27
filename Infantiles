@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/j2BbRc5PqlZ4h8D0HNzNA9XsXTR.jpg",La película Bob Esponja: En busca de pantalones cuadrados (2025)
+https://pomf2.lain.la/f/t71flrw.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zRFEchHTrreuJdAZUgmwOz22RbC.jpg",Los tipos malos Una Navidad (2023)
 https://pomf2.lain.la/f/41lri5d2.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2FEJ0fQsF4pCrem4aTNPbuX3oZ1.jpg",El capitán Sabertooth y la condesa de Grel (2025)
