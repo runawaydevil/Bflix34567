@@ -1,8 +1,8 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/o95i6lMrVL0tbpp8csJapgZKKqr.jpg",El talento (2025)
+https://pomf2.lain.la/f/7f47o51x.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/eIb6MTqS8jiYkIlB7bxaJMyooYj.jpg",El amigo (2025)
 https://pomf2.lain.la/f/mq4o644i.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xSAayNN7TyH0i72aMT7xC0uXHix.jpg",Acosada (2025)
