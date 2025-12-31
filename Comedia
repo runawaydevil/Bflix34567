@@ -1,6 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/jKqQWMDybmxou1c7J8Eim11rGzq.jpg",Campamento Garra de Oso (2025)
+https://pomf2.lain.la/f/b8gj9fd3.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/lfaU8qybKHg3b6IbHJ11FtIyDn2.jpg",Boda letal (2025)
 https://pomf2.lain.la/f/tanuc3mp.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/7ONypZBnKXAAzr1zCNDo88AD6qf.jpg",Muerte de un unicornio (2025)
