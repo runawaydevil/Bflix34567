@@ -1,6 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/v1gEOCeNXkbEaKeC8gt1MhUCq3e.jpg",Sigue mi voz (2025)
+https://pomf2.lain.la/f/2lsvwef.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mJtBKvHQaFzgp0N6JFskSvjbTar.jpg",Beauty from Pain (2025)
 https://pomf2.lain.la/f/orwbvblx.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/e3DlPw9ok4DU2fBOJflLxV56feu.jpg",Amor en cuatro letras (2025)
