@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/gziIkUSnYuj9ChCi8qOu2ZunpSC.jpg",Casino (1995)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/xtKLvpOfARi1XVm8u2FTdhY5Piq.jpg",Donnie Brasco (1997)
 https://dl.dropbox.com/scl/fi/45v6l3qsye83sama6pkip/06.mp4?rlkey=c5ir9n3m5qiwz7h2afya99bvm&st=bd098ded&dl=1
