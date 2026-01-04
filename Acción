@@ -1,6 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="",
 
+#EXTINF:-1 tvg-logo="",
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t4dv3SbJOV4uGFYWQd8xxnGiddX.jpg",A Bronx Tale (1993)
+https://pomf2.lain.la/f/v61mn75q.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg",Scarface (1983)
 https://pomf2.lain.la/f/1uxk4m3y.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/y4E5oRiHMTFkEB12IIcpbKbKzDW.jpg",Scarface (1932)
