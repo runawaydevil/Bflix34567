@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/sNilmIAwBbH0DmBOWBS6gWvNDex.jpg",El irlandés (2019)
+https://pomf2.lain.la/f/r61zlqah.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6yUooXjfisl8PqItqskRtcLQCyC.jpg",Buenos muchachos (1990)
 https://pomf2.lain.la/f/0ep0qypn.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/t4dv3SbJOV4uGFYWQd8xxnGiddX.jpg",A Bronx Tale (1993)
