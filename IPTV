@@ -22,9 +22,9 @@ https://raw.githubusercontent.com/ZeruG8/Nexus/refs/heads/main/Nexus/Nexus.m3u
 #EXTINF:-1 tvg-logo=""group-title="prueba",prueba 20
 
 #EXTINF:-1 tvg-logo=""group-title="prueba",prueba 52
-https://ico3c.com/bkg/ucjfrv6xpczy
-#EXTINF:-1 tvg-logo=""group-title="prueba",5633333333
 
+#EXTINF:-1 tvg-logo=""group-title="prueba",59
+https://iptv-org.github.io/iptv/index.m3u
 
 
 
