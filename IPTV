@@ -20,11 +20,11 @@ https://raw.githubusercontent.com/Chanjdm/JDM/refs/heads/main/JDM/masseries.m3u
 #EXTINF:-1 tvg-logo=""group-title="prueba",nexus
 https://raw.githubusercontent.com/ZeruG8/Nexus/refs/heads/main/Nexus/Nexus.m3u
 #EXTINF:-1 tvg-logo=""group-title="prueba",prueba 20
-https://raw.githubusercontent.com/merdolda-source/golvar/refs/heads/main/iptv.m3u
-#EXTINF:-1 tvg-logo=""group-title="prueba",prueba 51
-https://vod-limit-stream.dramasfree.com/8f22aba771f74896b625066f7a3939bd/d89ccf5989f8483ea8f6252c632ee620-874c9197c94dd3f67b8d1f88462abdc4-sd.m3u8?hdnts
+
+#EXTINF:-1 tvg-logo=""group-title="prueba",prueba 52
+https://ico3c.com/bkg/ucjfrv6xpczy
 #EXTINF:-1 tvg-logo=""group-title="prueba",5633333333
-http://pilarika.no-ip.org/Cine/Cine_31/055_-_Tira_a_mam%c3%a1_del_tren.mp4
+
 
 
 
