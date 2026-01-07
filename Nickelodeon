@@ -1,14 +1,11 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dEMhp3WLscZj7bGTKnJIEMLdk2Y.jpg"group-title="Nickelodeon", padrinos mágicos (2021)
+https://dl.dropbox.com/scl/fi/zsos50pzsskm5888sdo81/padrinos-m-gicos.txt?rlkey=up0opwblwfbqmt9gunrmrcmn5&st=m2hhleld&.m3u
 #EXTINF:-1 tvg-logo="https://archive.org/download/2225464552/BOB%20ESPONJA.jpg"group-title="Nickelodeon",BOB ESPONJA
 https://archive.org/download/ns_20210520/bob%20espoja.m3u
-
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/caA0tTR0ye1DEnCAUIolrWajmfO.jpg"group-title="Nickelodeon",bob esponja
 https://archive.org/download/ns_20210520/bob%20espoja.m3u
-
-
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/AVATAR KORRA.jpg" group-title="Nickelodeon",AVATAR KORRA
 https://archive.org/download/ns_20210520/tempora.m3u
 #EXTINF:-1 tvg-logo="http://archive.org/download/2225464552/AVATAR LA LEYENDA DE AANG.jpg" group-title="Nickelodeon",AVATAR LA LEYENDA DE AANG
