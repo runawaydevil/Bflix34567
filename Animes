@@ -134,9 +134,6 @@ ___LOS CABALLEROS DEL ZODIACO____
 https://raw.githubusercontent.com/AaronCoyu/CDZ1/main/Caballeros%2001
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/9RTWmNrzy7IfpdpMOynjT5KDfVP.jpg"group-title="LOS CABALLEROS DEL ZODIACO",V2
 https://raw.githubusercontent.com/Valchrist23/VikTV/c22b207aab1db9143d983f0978584a059697e590/saintseiya.m3u
-
-
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/kgRLZ95mibXMb6UjPhly0W92IUs.jpg"group-title="LOS CABALLEROS DEL ZODIACO",Los Caballeros del Zodiaco (1986)
 https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/caballeros.txt
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/zsfWe03fMUkcQrKbmap0C5FXiMk.jpg"group-title="LOS CABALLEROS DEL ZODIACO", La saga de Hades (2002)
@@ -155,6 +152,10 @@ https://raw.githubusercontent.com/tokio14-dot/ziadiaco/refs/heads/main/pelis
 ______digimon____
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mUhLvUY0ndhxWr1xmDp6bZgddUZ.jpg"group-title="DIGIMON",Digimon: Digital Monsters (1999)
 https://raw.githubusercontent.com/tokio14-dot/daima/refs/heads/main/digimon
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/uEs5GRuibXsSnAH2Hr0DiWupyzb.jpg"group-title="DIGIMON",Digimon Tamers (2001)
+https://dl.dropbox.com/scl/fi/txdtl0myr92nmskwseuhi/Digimon-Tamers-2001?rlkey=mmothsh1cblqj85hpvltk5y3c&st=y8wkoi8g&.m3u
+
+
 _____ONE PIECE_____
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/mh21p6mA8IwqJnRKyaW8SvVeoJL.jpg"group-title="ONE PIECE",ONE PIECE: Gyojin Tou-hen (2024)
 https://raw.githubusercontent.com/tokio14-dot/0nep13c3/refs/heads/main/one%20piece
