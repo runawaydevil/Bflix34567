@@ -2,8 +2,8 @@
 #EXTGRP: Clasic
 
 
-#EXTINF:-1 tvg-logo="",
-
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/2koX1xLkpTQM4IZebYvKysFW1Nh.jpg",Friends (1994)
+https://dl.dropbox.com/scl/fi/zfsw3h3xqd5soxnhackui/Friends-1994?rlkey=ipv1mh7t0gwp68fehdiu1dsev&st=75jyv5u8&.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/placeholder.jpg",Taxxi, amores cruzados (2013)
 https://raw.githubusercontent.com/tokio14-dot/anime-cortos/refs/heads/main/Taxxi%2C%20amores%20cruzados%20(2013)
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/dS4tTxuAiJIS6CGHvfqj2WNyrtU.jpg",Al Otro Lado (2004)
