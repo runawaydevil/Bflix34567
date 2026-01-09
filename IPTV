@@ -19,8 +19,8 @@ https://raw.githubusercontent.com/dydadi/PlusIPTV/refs/heads/main/peliculas-INFI
 https://raw.githubusercontent.com/Chanjdm/JDM/refs/heads/main/JDM/masseries.m3u
 #EXTINF:-1 tvg-logo=""group-title="prueba",nexus
 https://raw.githubusercontent.com/ZeruG8/Nexus/refs/heads/main/Nexus/Nexus.m3u
-#EXTINF:-1 tvg-logo=""group-title="prueba",prueba 20
-
+#EXTINF:-1 tvg-logo=""group-title="prueba",pr 2
+https://fina.dyndns.tv/Series/House/01x01.mkv
 #EXTINF:-1 tvg-logo=""group-title="prueba",prueba 52
 https://ogr.d72577a9dd0ec6.sbs/yayinatv.m3u8
 #EXTINF:-1 tvg-logo=""group-title="prueba",59
